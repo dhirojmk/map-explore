@@ -1,6 +1,6 @@
 # flutter_google_map
 
-A new Flutter project.
+A new Flutter project. Developed by Dhiroj Sahoo USeing Flutter and Google place api and locatiob api. i developd this project in fluter dart 
 
 ## Getting Started
 
